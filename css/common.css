@@ -1,1 +1,41 @@
-/* Inserta tu codigo que es común para todas las páginas aqui */
+/*Inicio header*/
+
+.ptitulo{
+	font-size: 25px;
+	color: #171C86;
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 0px;
+}
+
+header nav{
+	overflow: hidden;
+	width: 600px;
+	margin: 0px auto;
+	padding: 10px 0px;
+}
+
+header nav ul{
+	overflow: hidden;
+	list-style: none;
+	margin-right: 0px;
+}
+
+header nav ul li{
+	float:left;
+	margin: 0px 0px;
+}
+
+header nav ul li a{
+	padding-left: 40px;
+	padding-right: 40px;
+	display: block;
+	color: #171C86;
+	text-decoration: none;
+}
+
+header nav ul li a:hover{
+	text-decoration: underline;
+}
+
+/*Fin header*/
