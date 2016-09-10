@@ -76,3 +76,163 @@ header nav ul li a:hover{
 }
 
 /*Fin section2*/
+
+/*Inicio section3*/
+
+.fila4{
+	background-image: url(../img/textura_2.jpg);
+	background-size: 550px;
+	height: 380px;
+}
+
+.boton2{
+	background-color: #171C86;
+	width: 300px;
+	height: 60px;
+	border: 1px #171C86 solid;
+	border-radius: 3px 3px;
+	font-weight: bold;
+	color: #B6AEAE;
+	display: inline-block;
+	margin-left: 125px;
+}
+
+.fila4p{
+	margin-top: 60px;
+	font-size: 23px;
+	text-align: center;
+}
+
+.fila4img{
+	width: 120px;
+	height: 120px;
+	margin-top: -50px;
+	margin-left: 210px;
+}
+
+/*Fin section3*/
+
+/*Inicio section4*/
+
+.dosprofesores1{
+	background-image: url(../img/instructor_4.jpg);
+	background-size: cover;
+	height: 270px;
+
+}
+
+.dosprofesores2{
+	background-image: url(../img/profesor_9.jpg);
+	background-size: cover;
+	height: 270px;
+}
+
+.boton3{
+	background-color: #171C86;
+	width: 490px;
+	height: 70px;
+	border: 1px #171C86 solid;
+	border-radius: 3px 3px;
+	font-weight: bold;
+	color: #B6AEAE;
+	display: inline-block;
+	margin-left: -260px;
+	position: relative;
+	margin-top: 200px;
+	font-size: 20px;
+}
+
+/*Fin section4*/
+
+/*Inicio section5*/
+
+.fila6{
+	background-image: url(../img/textura_2.jpg);
+	background-size: 550px;
+	height: 300px;
+}
+
+.lema{
+	font-style: italic;
+	font-size: 40px;
+	text-align: center;
+	margin-top: 100px;
+}
+
+/*Fin section5*/
+
+/*Inicio section6*/
+
+.fila7{
+	background-color: #171C86;
+	height: 380px;
+}
+
+.p1mapa{
+	color: #B6AEAE;
+	margin-left: 70px;
+	font-size: 13px;
+	margin-top: 55px;
+}
+
+.p2mapa{
+	color: #B6AEAE;
+	margin-left: 70px;
+	font-size: 17px;
+	font-weight: bold;
+	margin-top: 40px;
+	margin-bottom: 0px;
+}
+
+.p3mapa,.p4mapa,.p5mapa,.p6mapa{
+	font-size: 13px;
+	color: #B6AEAE;
+	margin-left: 70px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+iframe{
+	margin-top: 55px;
+}
+
+/*Fin section6*/
+
+/*Inicio footer*/
+
+.contacto{
+	font-size: 30px;
+	color: #171C86;
+	font-weight: bold;
+	margin-left: 70px;
+	margin-top: 60px;
+	margin-bottom: 40px;
+}
+
+.formulario{
+	margin-left: 70px;
+	width: 450px;
+}
+
+.enviar{
+	margin-left: 70px;
+	width: 450px;
+	height: 50px;
+	background-color: #171C86;
+	border: #171C86;
+	color: #ffffff;
+}
+
+.ballet{
+	background-image: url(../img/shoes_1.jpg);
+	background-size: cover;
+	height: 380px;
+}
+
+.fila9{
+	height: 50px;
+	background-color: #171C86;
+	color: #ffffff;
+}
+
+/*Fin footer*/
