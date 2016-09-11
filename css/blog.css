@@ -1,1 +1,77 @@
-/* Inserta tu codigo aqui */
+/*Inicio section*/
+
+.fila3{
+	height: 950px;
+	padding-left: 120px;
+	padding-right: 120px;
+	background-color: #DDDDDD;
+}
+
+.blog{
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+
+.blog1img{
+	background-image: url(../img/blog1.jpg);
+	background-size: cover;
+	width: 250px;
+	height: 200px;
+}
+
+.grisoscuro{
+	background-color: #B6AEAE;
+	margin-bottom: 50px;
+}
+
+.blog2img{
+	background-image: url(../img/profesor_5.jpg);
+	background-size: cover;
+	width: 250px;
+	height: 200px;
+}
+
+.blog3img{
+	background-image: url(../img/instructor_1.jpg);
+	background-size: cover;
+	width: 250px;
+	height: 200px;
+}
+
+.tituloblog{
+	font-size: 13px;
+	font-weight: bold;
+	margin-top: 25px;
+	margin-bottom: 5px;
+}
+
+.fechablog{
+	font-size: 13px;
+	color: #DDDDDD;
+	font-style: italic;
+	margin-bottom: 3px;
+	margin-top: 3px;
+}
+
+.pblog{
+	font-size: 13px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	padding-right: 30px;
+}
+
+.boton1{
+	background-color: #171C86;
+	width: 200px;
+	height: 30px;
+	border: 1px #171C86 solid;
+	border-radius: 3px 3px;
+	margin-top: 20px;
+	font-weight: bold;
+	color: #B6AEAE;
+}
+
+/*Fin section*/
