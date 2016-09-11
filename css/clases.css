@@ -1,1 +1,82 @@
-/* Inserta tu codigo aqui */
+/*Inicio section*/
+
+.oferta{
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 70px;
+	margin-bottom: 25px;
+}
+
+.imgins1{
+	background-image: url(../img/dance_12.jpg);
+	background-size: cover;
+	width: 300px;
+	height: 370px;
+}
+
+.imgins2{
+	background-image: url(../img/breakdance.jpg);
+	background-size: cover;
+	width: 300px;
+	height: 370px;
+}
+
+.imgins3{
+	background-image: url(../img/lirical-jazz.jpg);
+	background-size: cover;
+	width: 300px;
+	height: 370px;
+}
+
+.imgins4{
+	background-image: url(../img/arabe.jpg);
+	background-size: cover;
+	width: 300px;
+	height: 370px;
+}
+
+.imgins5{
+	background-image: url(../img/little.jpg);
+	background-size: cover;
+	width: 300px;
+	height: 370px;
+}
+
+.imgins6{
+	background-image: url(../img/yoga.jpg);
+	background-size: cover;
+	width: 300px;
+	height: 370px;
+}
+
+.fila5{
+	height: 950px;
+	padding-left: 55px;
+	padding-right: 55px;
+	background-color: #B6AEAE;
+}
+
+.clases{
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+
+.bailes1{
+	background-color: #000000; opacity: 0.5;
+	width: 250px;
+	height: 90px;
+	position: absolute;
+	margin-top: 140px;
+	margin-left: 25px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.bailes2{
+	font-size: 13px;
+	color: #ffffff;
+	text-align: center;
+}
+
+/*Fin section*/
