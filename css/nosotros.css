@@ -1,1 +1,162 @@
-/* Inserta tu codigo aqui */
+/*Inicio section1*/
+
+.fila3{
+	background-image: url(../img/dance_7.jpg);
+	background-size: cover;
+	height: 340px;
+}
+
+.nosotros{
+	background-color: #000000; opacity: 0.5;
+	width: 400px;
+	height: 250px;
+	color: #ffffff;
+	margin: 50px auto 0px auto;
+}
+
+.textonosotros1{
+	padding-top: 50px;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.textonosotros2{
+	text-align: center;
+	padding: 0px 30px;
+}
+
+/*Fin section1*/
+
+/*Inicio section2*/
+
+.fila4{
+	background-image: url(../img/cubes.png);
+	background-size: 50px;
+	height: 380px;
+	padding: 0px 50px;
+}
+
+hr.style1{
+	border-top: 1px solid #B6AEAE;
+	width: 240px;
+}
+
+.pilar{
+	text-align: center;
+	padding-right: 40px;
+	padding-left: 40px;
+	padding-top: 55px;
+}
+
+.p1pilar{
+	font-size: 20px;
+	color: #B6AEAE;
+	font-weight: bold;
+	margin-bottom: 0px;
+}
+
+.p2pilar{
+	color: #B6AEAE;
+	margin-top: 0px;
+}
+
+/*Fin section2*/
+
+/*Inicio section3*/
+
+.ins{
+	text-align: center;
+	font-size: 30px;
+	margin-top: 70px;
+	margin-bottom: 70px;
+}
+
+.imgins1{
+	background-image: url(../img/profesor_4.jpg);
+	background-size: cover;
+	width: 230px;
+	height: 180px;
+}
+
+.imgins2{
+	background-image: url(../img/profesor_14.jpg);
+	background-size: cover;
+	width: 230px;
+	height: 180px;
+}
+
+.imgins3{
+	background-image: url(../img/profesor_1.jpg);
+	background-size: cover;
+	width: 230px;
+	height: 180px;
+}
+
+.imgins4{
+	background-image: url(../img/profesor_10.jpg);
+	background-size: cover;
+	width: 230px;
+	height: 180px;
+}
+
+.imgins5{
+	background-image: url(../img/profesor_11.jpg);
+	background-size: cover;
+	width: 230px;
+	height: 180px;
+}
+
+.imgins6{
+	background-image: url(../img/profesor_12.jpg);
+	background-size: cover;
+	width: 230px;
+	height: 180px;
+}
+
+.imgins7{
+	background-image: url(../img/profesor_9.jpg);
+	background-size: cover;
+	width: 230px;
+	height: 180px;
+}
+
+.imgins8{
+	background-image: url(../img/profesor_15.jpg);
+	background-size: cover;
+	width: 230px;
+	height: 180px;
+}
+
+.fila5{
+	height: 850px;
+}
+
+.nombres{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.fila5{
+	padding-left: 55px;
+	padding-right: 55px;
+}
+
+/*Fin section3*/
+
+/*Inicio section4*/
+
+.fila6{
+	background-image: url(../img/cubes.png);
+	background-size: 50px;
+	height: 300px;
+}
+
+.lema{
+	font-style: italic;
+	font-size: 40px;
+	text-align: center;
+	margin-top: 120px;
+}
+
+/*Fin section4*/
